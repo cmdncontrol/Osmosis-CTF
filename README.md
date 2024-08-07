@@ -45,8 +45,24 @@ The Level Effect Cyber Defense CTF was a blue team focused CTF. Placed 5th overa
 
 * [Welcome to Day 3](<challenges/Day 3/day-three>)
 
+* [Who is the real DIVA?](<challenges/Day 3/14-who-is-the-real-diva>)
+
+* [Cynthia is gone](<challenges/Day 3/15-cynthia-is-gone>)
+
+* [The Bookes](<challenges/Day 3/16-the-books>)
+
 * [Plan B](<challenges/Day 3/17-plan-b>)
 
 * [It's Never Too Late](<challenges/Day 3/18-its-never-to-late>)
 
+* [Robert](<challenges/Day 3/19-robert>)
+
+* [Alice](<challenges/Day 3/20-alice>)
+
+### Bonus
+
+
+### Final Flag
+
+* [Bonus 5](<challenges/Final Flag/Bonus 5>)
   
