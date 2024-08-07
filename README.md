@@ -2,7 +2,7 @@
 
 ## About
 
-The Level Effect Cyber Defense CTF was a blue team focused CTF. Placed 5th overall in this CTF.
+The Osmosis CTF was an OSINT focused event put on by the Osmosis Association. Placed 3rd overall in this CTF. 
 
 ## Challenges
 
